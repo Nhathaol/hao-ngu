@@ -1,0 +1,7 @@
+C:\Users\Nhat Hao\source\repos\ncc\ncc\bin\Debug\ncc.exe.config
+C:\Users\Nhat Hao\source\repos\ncc\ncc\bin\Debug\ncc.exe
+C:\Users\Nhat Hao\source\repos\ncc\ncc\bin\Debug\ncc.pdb
+C:\Users\Nhat Hao\source\repos\ncc\ncc\obj\Debug\ncc.csproj.AssemblyReference.cache
+C:\Users\Nhat Hao\source\repos\ncc\ncc\obj\Debug\ncc.csproj.CoreCompileInputs.cache
+C:\Users\Nhat Hao\source\repos\ncc\ncc\obj\Debug\ncc.exe
+C:\Users\Nhat Hao\source\repos\ncc\ncc\obj\Debug\ncc.pdb

@@ -10,6 +10,10 @@ namespace ncc
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("anh khoa dep trai");
+            Console.ReadLine();
+            Console.WriteLine("bao ngu nhu cho");
+            Console.ReadLine();
         }
     }
 }
