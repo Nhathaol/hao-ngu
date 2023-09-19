@@ -14,6 +14,7 @@ namespace ncc
             Console.ReadLine();
             Console.WriteLine("bao ngu nhu cho");
             Console.ReadLine();
+            Console.WriteLine("ga");
         }
     }
 }
