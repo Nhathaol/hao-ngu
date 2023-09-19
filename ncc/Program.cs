@@ -17,7 +17,7 @@ namespace ncc
             Console.WriteLine("ga");
             Console.WriteLine("asdasdas");
             Console.ReadLine();
-
+            Console.WriteLine("gay");
         }
     }
 }
